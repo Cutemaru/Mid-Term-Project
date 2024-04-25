@@ -57,3 +57,43 @@ li a:hover{
     position: fixed;
     z-index: 1;
 }
+.infoimg {
+    position: absolute;
+    top: 200px; /* 상단에서 200px 떨어지도록 설정 */
+    left: 350px;
+}
+
+.infotext{
+    font-size: 50px;
+    position: absolute;
+    text-align: center;
+    top: 230px;
+    left: 730px;
+    color: #808078;
+    font-family: 'Cafe24 Ohsquare';
+}
+.hey{
+    font-size: 70px;
+}
+
+
+.highlight{
+    color: #EBDED3
+}
+.highlight:hover {
+    font-weight: bold; /* 텍스트를 두껍게 만듦 */
+    color: #e0a470; /* 텍스트 색상 변경 */
+    cursor: pointer;
+}
+
+.img1{
+    position: absolute;
+    top: 250px;
+    right: 250px;
+}
+
+div{
+    color: #FFFFFF;
+    font-family: 'Cafe24 Ohsquare';
+    font-size: 13px;
+}
