@@ -103,12 +103,13 @@ div{
     border-radius: 20px;
     display: table-cell;
     vertical-align: middle;
-    background-color: #333;
+    background-color: #EBDED3;
     text-decoration-color: #808078;
     text-align: center;
     position: absolute;
     top: 340px;
     left: 685px;
+    color: #333;
 }
 .t1 {
     position: absolute;
@@ -123,12 +124,13 @@ div{
     border-radius: 20px;
     display: table-cell;
     vertical-align: middle;
-    background-color: #333;
+    background-color: #EBDED3;
     text-decoration-color: #808078;
     text-align: center;
     position: absolute;
     top: 405px;
     left: 680px;
+    color: #333;
 }
 .t2 {
     position: absolute;
@@ -143,12 +145,13 @@ div{
     border-radius: 20px;
     display: table-cell;
     vertical-align: middle;
-    background-color: #333;
+    background-color: #EBDED3;
     text-decoration-color: #808078;
     text-align: center;
     position: absolute;
     top: 475px;
     left: 667px;
+    color: #333;
 }
 .t3 {
     position: absolute;
@@ -164,12 +167,13 @@ div{
     border-radius: 20px;
     display: table-cell;
     vertical-align: middle;
-    background-color: #333;
+    background-color: #EBDED3;
     text-decoration-color: #808078;
     text-align: center;
     position: absolute;
     top: 540px;
     left: 696px;
+    color: #333;
 }
 .t4 {    
     position: absolute;
@@ -186,12 +190,13 @@ div{
     border-radius: 20px;
     display: table-cell;
     vertical-align: middle;
-    background-color: #333;
+    background-color: #EBDED3;
     text-decoration-color: #808078;
     text-align: center;
     position: absolute;
     top: 605px;
     left: 670px;
+    color: #333;
 }
 .t5 {
     position: absolute;
