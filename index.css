@@ -97,3 +97,117 @@ div{
     font-family: 'Cafe24 Ohsquare';
     font-size: 13px;
 }
+.tname1 {
+    width: 70px;
+    height: 28px;
+    border-radius: 20px;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #333;
+    text-decoration-color: #808078;
+    text-align: center;
+    position: absolute;
+    top: 340px;
+    left: 685px;
+}
+.t1 {
+    position: absolute;
+    top: 375px;
+    left: 690px;
+    color: #808078;
+}
+
+.tname2 {
+    width: 80px;
+    height: 30px;
+    border-radius: 20px;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #333;
+    text-decoration-color: #808078;
+    text-align: center;
+    position: absolute;
+    top: 405px;
+    left: 680px;
+}
+.t2 {
+    position: absolute;
+    top: 440px;
+    left: 625px;
+    color: #808078;
+}
+
+.tname3 {
+    width: 110px;
+    height: 30px;
+    border-radius: 20px;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #333;
+    text-decoration-color: #808078;
+    text-align: center;
+    position: absolute;
+    top: 475px;
+    left: 667px;
+}
+.t3 {
+    position: absolute;
+    top: 510px;
+    left: 637px;
+    color: #808078;
+}
+
+
+.tname4 {
+    width: 55px;
+    height: 30px;
+    border-radius: 20px;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #333;
+    text-decoration-color: #808078;
+    text-align: center;
+    position: absolute;
+    top: 540px;
+    left: 696px;
+}
+.t4 {    
+    position: absolute;
+    top: 575px;
+    left: 709px;
+    color: #808078;
+}
+
+
+
+.tname5 {
+    width: 110px;
+    height: 30px;
+    border-radius: 20px;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #333;
+    text-decoration-color: #808078;
+    text-align: center;
+    position: absolute;
+    top: 605px;
+    left: 670px;
+}
+.t5 {
+    position: absolute;
+    top: 640px;
+    left: 605px;
+    color: #808078;
+}
+
+.tname6 {
+    width: 110px;
+    height: 30px;
+    border-radius: 20px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    position: absolute;
+    top: 270px;
+    left: 670px;
+}
