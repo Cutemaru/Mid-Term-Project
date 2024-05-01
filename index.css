@@ -30,7 +30,7 @@ html{
 ul{
     margin: 0;
     padding: 0;
-    background-color: #333;
+    background-color: #33333364;
     text-align: center;
 }
 li{
@@ -43,7 +43,7 @@ li a{
     text-decoration: none;
 }
 li a:hover{
-    color: #000000;
+    color: #33333364;
     font-weight: normal;
 }
 .menu{
@@ -52,28 +52,25 @@ li a:hover{
     text-align: center;
     max-width: 100%;
     background-position: cover;
-    background-color: #3C281D;
+    background-color: #33333364;
     top: 0;
     position: fixed;
     z-index: 1;
 }
 .infoimg {
     position: absolute;
-    top: 200px; /* 상단에서 200px 떨어지도록 설정 */
-    left: 350px;
+    top: 250px; /* 상단에서 200px 떨어지도록 설정 */
+    left: 650px;
 }
 
 .infotext{
     font-size: 50px;
     position: absolute;
     text-align: center;
-    top: 230px;
-    left: 730px;
+    top: 150px;
+    left: 720px;
     color: #808078;
     font-family: 'Cafe24 Ohsquare';
-}
-.hey{
-    font-size: 70px;
 }
 
 
@@ -135,7 +132,7 @@ div{
 .t2 {
     position: absolute;
     top: 440px;
-    left: 625px;
+    left: 635px;
     color: #808078;
 }
 
@@ -172,13 +169,13 @@ div{
     text-align: center;
     position: absolute;
     top: 540px;
-    left: 696px;
+    left: 695px;
     color: #333;
 }
 .t4 {    
     position: absolute;
     top: 575px;
-    left: 709px;
+    left: 708px;
     color: #808078;
 }
 
@@ -201,12 +198,11 @@ div{
 .t5 {
     position: absolute;
     top: 640px;
-    left: 605px;
+    left: 595px;
     color: #808078;
 }
 
 .tname6 {
-    width: 110px;
     height: 30px;
     border-radius: 20px;
     display: table-cell;
@@ -214,7 +210,8 @@ div{
     text-align: center;
     position: absolute;
     top: 270px;
-    left: 670px;
+    left: 637px;
+    font-size: 100px;
 }
 .p {
     font-size: 300px;
@@ -255,26 +252,78 @@ div{
 
 .instagram {
     position: absolute;
-    top: 450px;
-    left: 860px;
+    top: 800px;
+    left: 650px;
 }
 .github {
     position: absolute;
-    top: 435px;
-    left: 1000px;
+    top: 785px;
+    left: 750px;
+}
+.blog {
+    position: absolute;
+    top: 800px;
+    left: 868px;
+}
+.thread {
+    position: absolute;
+    top: 800px;
+    left: 980px;
 }
 
-.sub {
+.sub1-1 {
     width: 180px;
     height: 25px;
     border-radius: 20px;
-    background-color: #6c75ad;
+    background-color: #e0a470;
     position: absolute;
-    top: 490px;
-    right: 480px;
+    top: 800px;
+    left: 650px;
     opacity: 0.0;
 }
-.sub:hover {
+.sub1-1:hover {
+    background-color: #333;
+    opacity: 1.0;
+}
+.sub1-2 {
+    width: 180px;
+    height: 25px;
+    border-radius: 20px;
+    background-color: #e0a470;
+    position: absolute;
+    top: 800px;
+    left: 750px;
+    opacity: 0.0;
+}
+.sub1-2:hover {
+    background-color: #333;
+    opacity: 1.0;
+}
+.sub1-3 {
+    width: 180px;
+    height: 25px;
+    border-radius: 20px;
+    background-color: #e0a470;
+    position: absolute;
+    top: 800px;
+    left: 868px;
+    opacity: 0.0;
+}
+.sub1-3:hover {
+    background-color: #333;
+    opacity: 1.0;
+}
+.sub1-4 {
+    width: 180px;
+    height: 25px;
+    border-radius: 20px;
+    background-color: #e0a470;
+    position: absolute;
+    top: 800px;
+    left: 980px;
+    opacity: 0.0;
+}
+.sub1-4:hover {
     background-color: #333;
     opacity: 1.0;
 }
